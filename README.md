@@ -9,6 +9,7 @@ Spoiler warning: Plot or ending details follow.
 General Commands
 ================
 HELP - repeats area description.
+
 LOOK - repeats area description.
 HELPETH - repeats area description.
 DIE - "That wasn't very smart. Your score was: ___. Play again? [Y/N]" - Subtracts 100 points from your score.
