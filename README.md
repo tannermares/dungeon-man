@@ -8,9 +8,9 @@ Spoiler warning: Plot or ending details follow.
 
 General Commands
 ================
-HELP - repeats area description.
-LOOK - repeats area description.
-HELPETH - repeats area description.
+- HELP - repeats area description.
+- LOOK - repeats area description.
+- HELPETH - repeats area description.
 DIE - "That wasn't very smart. Your score was: ___. Play again? [Y/N]" - Subtracts 100 points from your score.
 DANCE - "Thou shaketh it a little, and it feeleth all right." 
 GET YE ___/TAKE YE ___/GET YON ___/TAKE YON ___/GET ___/ TAKE ___ - "Thou cannotst get that. Quit making stuffeth up!" 
