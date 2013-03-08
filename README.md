@@ -7,30 +7,30 @@ Walkthrough
 Spoiler warning: Plot or ending details follow. 
 
 General Commands
-================
-- HELP - repeats area description.
-- LOOK - repeats area description.
-- HELPETH - repeats area description.
-DIE - "That wasn't very smart. Your score was: ___. Play again? [Y/N]" - Subtracts 100 points from your score.
-DANCE - "Thou shaketh it a little, and it feeleth all right." 
-GET YE ___/TAKE YE ___/GET YON ___/TAKE YON ___/GET ___/ TAKE ___ - "Thou cannotst get that. Quit making stuffeth up!" 
-GET DAGGER - "Yeah, okay." - Adds 25 points to your score. Usable infinitely. 
-GO ___ - "Thou cannotst go there. Who do you think thou art? A magistrate?!" 
-LOOK ___ - "It looketh pretty awesome." 
-___ - "That does not computeth. Type HELP is thou needs of it." 
-TALK ___ - "Who is ___? Your new boyfriend? Somebody from work you don't want me to meeteth?" 
-GIVE ___ - "Thou don'tst have a ___ to give. Go back to your tiny life." 
-SMELL/SNIFF - "You smell a Wumpus." 
+----------------
+ - HELP - repeats area description.
+ - LOOK - repeats area description.
+ - HELPETH - repeats area description.
+ - DIE - "That wasn't very smart. Your score was: ___. Play again? [Y/N]" - Subtracts 100 points from your score.
+ - DANCE - "Thou shaketh it a little, and it feeleth all right." 
+ - GET YE ___/TAKE YE ___/GET YON ___/TAKE YON ___/GET ___/ TAKE ___ - "Thou cannotst get that. Quit making stuffeth up!" 
+ - GET DAGGER - "Yeah, okay." - Adds 25 points to your score. Usable infinitely. 
+ - GO ___ - "Thou cannotst go there. Who do you think thou art? A magistrate?!"
+ - LOOK ___ - "It looketh pretty awesome." 
+ - ___ - "That does not computeth. Type HELP is thou needs of it." 
+ - TALK ___ - "Who is ___? Your new boyfriend? Somebody from work you don't want me to meeteth?" 
+ - GIVE ___ - "Thou don'tst have a ___ to give. Go back to your tiny life." 
+ - SMELL/SNIFF - "You smell a Wumpus." 
 
 Main Dungeon Room
-=================
+-----------------
 "Thy Dungeonman - Click to enter yon dungeon." 
 THY DUNGEONMAN 
  YOU ARE THY DUNGEONMAN! 
 Ye find yeself in yon dungeon. Ye see a SCROLL. Behind ye scroll is a FLASK. Obvious exits are NORTH, SOUTH and DENNIS." 
 If you've asked to get the scroll more than once, anytime you look at the room (either by typing "LOOK", "HELP", or by returning to this room from another room, you'll see this message tacked onto the main message: "There is definitely no YE SCROLL, so drop it." 
-LOOK SCROLL - "Parchment, definitely parchment. I'd recognize it anywhere." 
-LOOK FLASK - "Looks like you could quaff some serious mead out of that thing." 
+    LOOK SCROLL - "Parchment, definitely parchment. I'd recognize it anywhere." 
+    LOOK FLASK - "Looks like you could quaff some serious mead out of that thing." 
 GET SCROLL - "Ye takes the scroll and reads of it. It doth say: BEWARE, READER OF THE SCROLL, DANGER AWAITS TO THE- The SCROLL disappears in thy hands with ye olde ZAP!" - Adds 2 points to your score 
 GET SCROLL (again) - "Ye doth suffer from memory loss. YE SCROLL is no more. Honestly." - Subtracts 1 point from your score 
 LOOK SCROLL (again) - "Ye seeth nothing wheretofore it went ZAP." 
@@ -41,7 +41,7 @@ GO SOUTH - Takes you south (see below).
 GO DENNIS - Takes you to Dennis (see below). 
 
 North of the Main Dungeon Room
-==============================
+------------------------------
 "You go NORTH through yon corrider. You arrive at parapets. Ye see a rope. Obvious exits are SOUTH." 
 LOOK PARAPETS - "Well, they're parapets. This much we know for sure." 
 LOOK ROPE - "It looks okay. You've seen better." 
@@ -49,7 +49,7 @@ GET ROPE - "You attempt to take ye ROPE but alas it is enchanted! It glows a mus
 GO SOUTH - Takes you back to Main Dungeon Room. 
 
 South of the Main Dungeon Room
-==============================
+------------------------------
 "You head south to an enbankment. Or maybe a chasm. You can't decide which. Anyway, ye spies a TRINKET. Obvious exits are NORTH." 
 LOOK TRINKET - "Quit looking! Just get it already." 
 LOOK/HELP (Before GET TRINKET) - "Ye stand yeself close to a yet-unnamed escarpment. Nonetheless, ye spies a TRINKET. Obvious exits are NORTH." 
@@ -61,7 +61,7 @@ LOOK/HELP (After you try to GET TRINKET more than once) - "Thou hangeth out at a
 GO NORTH - Takes you back to the Main Dungeon Room. 
 
 Dennis
-======
+------
 "Ye arrive at Dennis. He wears a sporty frock coat and a long jimberjam. He paces about nervously. Obvious exits are NOT DENNIS." 
 NOT DENNIS - Takes you back to the Main Dungeon Room. 
 TALK - "You engage Dennis in leisurely discussion. Ye learns that his jimberjam was purchased on sale at a discount market and that he enjoys pacing about nervously. You become bored and begin thinking about parapets." 
