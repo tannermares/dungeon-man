@@ -1,7 +1,3 @@
-ALL THIS IS COPYRIGHT CEICH@TRINNOVATIONS.com
-WHWHHAHAHAHA!!!!
-
-
 dungeon-man
 ===========
 
