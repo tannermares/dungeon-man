@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5EE45809-3F45-4DC1-9A21-28932E32AF73</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Dungeon Man</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>684B40E0-3F93-4F6F-AADD-C70D6E030050</key>
+		<string>ssh://github.com/tannermares/dungeon-man.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Dungeon Man/Dungeon Man.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>684B40E0-3F93-4F6F-AADD-C70D6E030050</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/tannermares/dungeon-man.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>684B40E0-3F93-4F6F-AADD-C70D6E030050</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>684B40E0-3F93-4F6F-AADD-C70D6E030050</string>
+			<key>IDESourceControlWCCName</key>
+			<string>dungeon-man</string>
+		</dict>
+	</array>
+</dict>
+</plist>
